@@ -12,10 +12,10 @@ git log: Este comando muestra el historial del repositorio
 
 git branch: Este comando permite crear o eliminar ramas
 
-git add: Este comando agrega cambios del directorio, para pasar a preparacion, y confirmacion
+git add: Este comando agrega cambios del directorio, para pasar a preparacion, y confirmacion.
 
-git commit: Este comando guarda los cambios preparados anteriormente por el "git add"
+git commit: Este comando guarda los cambios preparados anteriormente por el "git add".
 
-git push: Este comando actualiza el contenido del repositorio local al repositorio remoto
+git push: Este comando actualiza el contenido del repositorio local al repositorio remoto.
 
-git merge: Este comando toma las lineas independientes creadas por git y las integra en una sola rama
+git merge: Este comando toma las lineas independientes creadas por git y las integra en una sola rama.
